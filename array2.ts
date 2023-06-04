@@ -1,4 +1,4 @@
-//voce tambem pode declarar os tipos dos valores inseridos nas tuples
+//voce tambem pode declarar os tipos dos valores inseridos nas tuples//
 let myTuple: [number,string, string, number] = [28,'oi mundo','hello world',2]
 /*arrays desse tipo sao chamadas de tuples, e seus valores nao podem ser inseridos errados 
 ou mais do que os tipos que foram inseridos
